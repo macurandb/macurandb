@@ -5,7 +5,7 @@ I’m a seasoned **Software Engineer** and **Data Engineering Enthusiast** with 
 ## What I'm up to:
 
 - 🔭 **Currently enhancing software solutions at UKG**
-- 🌱 **Deepening my expertise** in Java, Python, .NET Core, Rust, Kotlin, Flutter, Vue, and React.
+- 🌱 **Deepening my expertise** in Python, Kotlin, Rust, and Vue.
 - 👯 **Eager to contribute** to open-source projects and collaborate with innovative teams.
 
 ## Technologies I Love:
@@ -14,11 +14,11 @@ I’m a seasoned **Software Engineer** and **Data Engineering Enthusiast** with 
 - **Rust**: Exploring system-level programming for performance-critical software.
 - **Kotlin**: Building robust back-end systems and modern, safe apps on the Android platform.
 - **Java & .NET Core**: Developing scalable web and backend applications.
-- **React & Vue**: Engineering dynamic and responsive web interfaces.
+- **Vue & React**: Engineering dynamic and responsive web interfaces.
 
 ## Other Technologies I Work With:
 
-- **Flutter**: Creating beautiful cross-platform mobile apps.
+- **React Native & Flutter**: Creating beautiful cross-platform mobile apps.
 
 ## Connect with Me:
 
