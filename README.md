@@ -33,6 +33,9 @@ Senior Software & Data Engineer with 10+ years of experience building scalable, 
 - **Flink & Spark**: High-performance stream processing for big data.
 - **DuckDB**: Local-first OLAP analytics for fast in-memory queries.
 
+## 🤖 AI & Machine Learning:
+- **LLMs (Large Language Models)** → Experience integrating OpenAI, LangChain, and custom AI models into applications.
+
 ##  🛠 Other Technologies I Work With:
   
 - **Java & Kotlin**: Backend services with Spring Boot, Quarkus, and Micronaut.
