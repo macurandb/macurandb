@@ -1,6 +1,27 @@
 # Hello, I'm Duany Baró Menéndez! 👋
 
-Senior Software & Data Engineer with 10+ years of experience building scalable, high-performance systems in cloud-native and event-driven architectures. Expertise in Go, Python, Kotlin, Java, and Rust, with a proven track record of leading cross-functional teams and designing fault-tolerant microservices.
+As an AI Software Engineering Consultant with 10+ years of experience, I partner with companies to design, build, and scale intelligent, high-performance systems.
+
+My core strength lies in leveraging Python, Go, and Rust, underpinned by deep software architecture expertise and hands-on execution, to turn complex AI concepts into robust, production-ready solutions that create real business value.
+
+I specialize in translating ambitious business requirements into cutting-edge, cloud-native applications—particularly where AI/ML meets real-world constraints. This includes building AI-powered features, optimizing MLOps pipelines, and architecting distributed systems for real-time data processing.
+
+Whether the solution requires custom development or fast automation using low-code tools like n8n or Make, my focus remains on delivering scalable, maintainable, and results-oriented systems. I adapt the technology stack to the business need, not the other way around.
+
+I apply a “best-tool-for-the-job” approach:
+
+- Python for its rich AI/ML ecosystem
+- Go for concurrency, speed, and service reliability
+- Rust for performance-critical and safety-sensitive components
+
+### 🔹 Core Expertise & How I Deliver Value
+
+- AI/ML System Design & Implementation: End-to-end pipelines, model integration, scalable deployment
+
+- Scalable Architecture & Microservices: Designing resilient, decoupled systems that evolve with your business
+- High-Performance Backend Systems: Building fast, optimized services critical for AI-driven applications
+- Event-driven & Real-Time Pipelines: Kafka, Apache Beam and BigQuery for reliable data flow and insight generation
+- Cloud-Native & DevOps: GCP, AWS, Kubernetes, Terraform for modern, automated infrastructure
 
 ### 🔹 Leadership & Architecture
 
